@@ -37,7 +37,7 @@
                 </form>
                 <br>   
                 <div class="hasil" >
-                <p><?= $mahasiswa_1->getData()[1]; ?>&nbsp;&nbsp;<?= $mahasiswa_1->getData()[0]; ?></p>
+                <p><?= $mahasiswa_1->getData()[0]; ?>&nbsp;&nbsp;<?= $mahasiswa_1->getData()[1]; ?></p>
 
                 </div>
             </div>
